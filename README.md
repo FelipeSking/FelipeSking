@@ -21,3 +21,8 @@
   <a href="https://www.linkedin.com/in/felipe-siqueira-dos-reis-88050864/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+<div>
+
+<img src="https://raw.githubusercontent.com/FelipeSking/FelipeSking/main/snake.svg" alt="Snake animation" />
+  
+</div>
